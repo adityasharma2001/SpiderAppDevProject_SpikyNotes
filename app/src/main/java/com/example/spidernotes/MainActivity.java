@@ -177,6 +177,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
             case R.id.notes:{
                 startActivity(new Intent(this, MainActivity.class));
+                break;
             }
 
             default:
