@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439946256279",
+    "firebase_url": "https://spider-notes-79d75.firebaseio.com",
+    "project_id": "spider-notes-79d75",
+    "storage_bucket": "spider-notes-79d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439946256279:android:bb6ee5e703354b24b32ed2",
+        "android_client_info": {
+          "package_name": "com.example.spidernotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439946256279-qvqjh5ia01l13ltvf0b48131odm705b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spidernotes",
+            "certificate_hash": "9b0c809ad245b394ef8f7b30062891ab4656c014"
+          }
+        },
+        {
+          "client_id": "439946256279-88bcevobd2rdqgiofu5dtj0m0vfvgkl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_F35vu5ZGQOiEd-uxV-bd0-7TJgapB4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439946256279-88bcevobd2rdqgiofu5dtj0m0vfvgkl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
